@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vmnatsakanyan27@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I don't like PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
