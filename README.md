@@ -1,11 +1,11 @@
 ![MasterHead](https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif)
 <h1 align="center">Hi 👋, I'm Vahe</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vahem27&label=Profile%20views&color=0e75b6&style=flat" alt="vahem27" /> </p>
 
-- 🔭 I’m currently working on **Gainium App**
+- 🔭 I’m currently working on **Byte Ready Website**
 
 - 🌱 I’m currently learning **React Native**
 
