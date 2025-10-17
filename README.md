@@ -5,19 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vahem27&label=Profile%20views&color=0e75b6&style=flat" alt="vahem27" /> </p>
 
-- 🔭 I’m currently working on **Byte Ready Website**
+- 🔭 I’m currently working on **PrimeEin (EIN,TAX) Website**
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React , MERN , Angular**
+- 💬 Ask me about **React , MERN**
 
 - 📫 How to reach me **vmnatsakanyan27@gmail.com**
 
-- ⚡ Fun fact **I like so much sausages**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vmnatsakanyan27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vmnatsakanyan27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vahe-mnatsakanyan-665157202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vahe-mnatsakanyan-665157202" height="30" width="40" /></a>
 </p>
 
