@@ -177,7 +177,7 @@ Simple → Maintainable → Scalable → Fast
 > ./activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vahem27&bg_color=00000000&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=vahem27&bg_color=00000000&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 > ./github-trophies
