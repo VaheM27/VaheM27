@@ -1,18 +1,186 @@
-![MasterHead](https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif)
-<h1 align="center">Hi 👋, I'm Vahe</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vahem27&label=Profile%20views&color=0e75b6&style=flat" alt="vahem27" /> </p>
-- 🔭 I’m currently working on **PrimeEin (EIN,TAX) Website**
-- 🌱 I’m currently learning **React Native**
-- 💬 Ask me about **React , MERN**
-- 📫 How to reach me **vmnatsakanyan27@gmail.com**
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e293b&height=220&section=header&text=VAHE%20MNATSAKYAN&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=58&descSize=18&descColor=CBD5E1"/>
+
+<a href="https://github.com/vahem27">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;MERN+Stack+Developer;Building+things+for+the+web;Currently+learning+React+Native+%F0%9F%93%B1" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=vahem27&label=PROFILE+VIEWS&color=38BDF8&style=flat-square" />
+
+</div>
+
+---
+
+## `> whoami`
+
+```javascript
+const vahe = {
+    name: "Vahe Mnatsakanyan",
+    role: "Frontend Developer",
+    location: "Armenia",
+
+    focus: [
+        "Frontend Development",
+        "React Applications",
+        "Modern UI/UX",
+        "Web Performance"
+    ],
+
+    stack: {
+        frontend: [
+            "React",
+            "Next.js",
+            "TypeScript"
+        ],
+
+        backend: [
+            "Node.js",
+            "Express",
+            "MongoDB"
+        ],
+
+        mobile: [
+            "React Native"
+        ]
+    },
+
+    currentProject: "PrimeEin",
+
+    learning: "React Native",
+
+    philosophy:
+        "Good code is not code that works. It's code that's easy to change."
+};
+
+> ./about-me
+
+I’m a Frontend Developer focused on building modern, scalable and user-friendly web applications.
+
+I enjoy turning ideas and designs into real products, working with APIs, creating reusable components and constantly improving the way I write code.
+
+┌──────────────────────────────────────────────┐
+│                                              │
+│  🧑‍💻  Frontend Development                  │
+│  ⚛️   React & Next.js                        │
+│  🧩  Reusable Components                     │
+│  🔌  REST APIs                               │
+│  📱  React Native                            │
+│  🎨  UI / UX                                 │
+│  🚀  Performance                             │
+│                                              │
+└──────────────────────────────────────────────┘
+
+> ./what-i-do
+
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  01  Build modern web applications                 │
+│  02  Develop scalable React applications           │
+│  03  Create reusable UI components                 │
+│  04  Integrate REST APIs                           │
+│  05  Work with backend services                    │
+│  06  Build responsive interfaces                   │
+│  07  Explore cross-platform development            │
+│                                                    │
+└────────────────────────────────────────────────────┘
+
+> ./tech-stack
+Frontend
 <p align="left">
-<a href="https://linkedin.com/in/vahe-mnatsakanyan-665157202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vahe-mnatsakanyan-665157202" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,sass,tailwind" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vahem27&show_icons=true&locale=en&layout=compact" alt="vahem27" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vahem27&show_icons=true&locale=en" alt="vahem27" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vahem27&" alt="vahem27" /></p>
+
+
+Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+</p>
+
+> ./currently-building
+🚀 PrimeEin
+
+EIN & TAX Platform
+
+I’m currently working on a web platform focused on EIN and TAX related services.
+PROJECT STATUS
+
+Frontend Architecture
+██████████████████████████████  DONE
+
+Responsive UI
+██████████████████████████████  DONE
+
+API Integration
+████████████████████░░░░░░░░░░  IN PROGRESS
+
+User Flows
+██████████████████░░░░░░░░░░░░  IN PROGRESS
+
+Optimization
+████████████░░░░░░░░░░░░░░░░░░  IN PROGRESS
+
+> ./learning
+
+📱 React Native
+
+Currently exploring cross-platform mobile development.
+
+React Native
+     │
+     ├── Components
+     │
+     ├── Navigation
+     │
+     ├── State Management
+     │
+     ├── API Integration
+     │
+     └── Mobile Applications
+
+> ./developer-philosophy
+┌────────────────────────────────────────────────┐
+│                                                │
+│  First make it work.                           │
+│                                                │
+│  Then make it clean.                           │
+│                                                │
+│  Then make it fast.                            │
+│                                                │
+└────────────────────────────────────────────────┘
+
+I believe good software should be:
+
+Simple → Maintainable → Scalable → Fast
+
+> ./github
+<div align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vahem27&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahem27&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=94A3B8" />
+</div>
+<br/>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=vahem27&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" />
+</div>
+
+
+> ./activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vahem27&bg_color=00000000&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+> ./github-trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vahem27&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</div>
